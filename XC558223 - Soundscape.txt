@@ -1,0 +1,40 @@
+https://xeno-canto.org/location/map?lat=57.4706&long=-4.163&loc=Home,%20Highland%20Council,%20Scotland
+Home, Highland Council, Scotland, at (57.4706, -4.163)
+Species recorded at Home, Highland Council, Scotland:
+
+Common Wood Pigeon
+Water Rail
+Common Moorhen
+Eurasian Oystercatcher
+European Golden Plover
+Eurasian Whimbrel
+Eurasian Curlew
+Dunlin
+Common Sandpiper
+Common Redshank
+Common Gull
+European Herring Gull
+Western Barn Owl
+Tawny Owl
+Western Jackdaw
+Rook
+Carrion Crow
+Coal Tit
+Eurasian Blue Tit
+Great Tit
+Long-tailed Tit
+Common Chiffchaff
+Goldcrest
+Common Starling
+Song Thrush
+Common Blackbird
+European Robin
+House Sparrow
+European Greenfinch
+European Goldfinch
+Identity unknown (?)
+And also the following species in the background:
+
+Common Chaffinch
+Willow Warbler
+Eurasian Wren

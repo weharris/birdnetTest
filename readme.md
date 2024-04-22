@@ -1,6 +1,6 @@
 # BirdNet test
 
-This is a small repository containing code to identify bird species from audio recordings using [BirdNET analyzer](https://github.com/kahst/BirdNET-Analyzer).  
+This is a small repository containing code to identify bird species from audio recordings using [BirdNET analyzer](https://github.com/kahst/BirdNET-Analyzer).  Some test datasets are provided.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weharris/birdnetTest/)
 

@@ -9,4 +9,4 @@ Figure 1. This shows the number of bird species classifications as a function of
 
 <center><img src="img/birb2.png" alt="Figure 2" width="400"/></center>
 
-Figure 2. This shows the species accumulation curve for bird species classification as a function of the time in which the recording was made.
+Figure 2. This shows the species accumulation curve for bird species classification as a function of sampling effort.

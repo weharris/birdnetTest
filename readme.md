@@ -1,6 +1,6 @@
 # BirdNet test
 
-This is a small repository containing code to identify bird species from audio recordings.  The intended environment is Google Colab.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/weharris/birdnetTest/)]
+This is a small repository containing code to identify bird species from audio recordings.  The intended environment is Google Colab.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weharris/birdnetTest/)
 
 
 <center><img src="img/birb1.png" alt="Figure 1" width="500"/></center>
